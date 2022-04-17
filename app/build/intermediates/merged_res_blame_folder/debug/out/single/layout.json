@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MemoriesBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recycler_row.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MemoriesBook\\app\\src\\main\\res\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MemoriesBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MemoriesBook\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\MemoriesBook\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_memory.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\MemoriesBook\\app\\src\\main\\res\\layout\\activity_memory.xml"
+    }
+]
